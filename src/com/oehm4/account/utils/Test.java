@@ -13,8 +13,8 @@ public class Test {
 			
 		AccountDTO accountDTO = new AccountDTO();
 		accountDTO.setId(102L);
-		accountDTO.setMobileNumber(785612355L);
-		accountDTO.setAccountHodlerName("Naman");
+		accountDTO.setMobileNumber(8271520396L);
+		accountDTO.setAccountHodlerName("Piyush");
 		accountDTO.setAccountNumber("IND1019083");
 		accountDTO.setAddress("India");
 		accountDTO.setBalance(102000.5D);
